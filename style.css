@@ -1,0 +1,12 @@
+@keyframes blink {
+  0% { opacity: 1; }
+  100% { opacity: 0; }
+}
+
+.expired{
+  color: red;
+}
+
+.blink {
+  animation: blink 0.25s infinite alternate;
+}
