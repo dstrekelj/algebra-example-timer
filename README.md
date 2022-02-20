@@ -2,7 +2,7 @@
 
 <div align="center">
   <br />
-  <a href="https//dstrekelj.github.io/algebra-example-timer" target="_blank">
+  <a href="https://dstrekelj.github.io/algebra-example-timer" target="_blank">
     <img src="image.png" alt="Timer widget screenshot" width="500">
     <br />
     <br />
